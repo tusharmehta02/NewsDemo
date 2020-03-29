@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News App</string>
+
+    <string name="title_news_detail">News Detail</string>
+    <string name="title_news_list">News List</string>
+
+    <string name="transition_name">"trans_image"</string>
+
+
+</resources>
